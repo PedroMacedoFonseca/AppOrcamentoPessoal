@@ -35,8 +35,8 @@
 
 # 🛠️ Tecnologias Utilizadas
 
-# jQuery: 	Manipulação DOM e eventos
-# Bootstrap 5:	Layout e componentes UI
+## jQuery: 	Manipulação DOM e eventos
+## Bootstrap 5:	Layout e componentes UI
 
 # 🚀 Como Executar
 
@@ -46,7 +46,7 @@ cd AppOrcamentoPessoal
 
 Abra index.html no navegador
 
-# 📌 Destaques Técnicos
-## 🔹 Filtros dinâmicos implementados com manipulação de arrays em JavaScript
-## 🔹 Validação de formulário sem recarregamento da página
-## 🔹 UI/UX aprimorada com componentes Bootstrap e micro-interações
+## 📌 Destaques Técnicos
+### 🔹 Filtros dinâmicos implementados com manipulação de arrays em JavaScript
+### 🔹 Validação de formulário sem recarregamento da página
+### 🔹 UI/UX aprimorada com componentes Bootstrap e micro-interações
